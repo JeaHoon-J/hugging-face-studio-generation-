@@ -18,3 +18,5 @@
 - **Structural Integrity**: ControlNet을 적용하여 단순 배경 합성을 넘어, 원본 피사체와 자연스럽게 어우러지는 결과물 생성
 
 <img width="1108" height="690" alt="가상 배경 생성 결과" src="https://github.com/user-attachments/assets/4831b2d2-772b-41e6-80da-42661823a581" />
+
+<img width="1108" height="690" alt="가상 배경 생성 결과_2" src="https://github.com/user-attachments/assets/b4fdcd2a-33c4-4537-aa0b-1ddf19495253" />
